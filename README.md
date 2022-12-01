@@ -12,7 +12,7 @@ This assignment is to practice React : passing props, React hook: useState, useE
 1. The application should have 2 pages: Home page and Cart page as the screenshots belows
 2. Home page displays list of products using this url: `https://fakestoreapi.com/products`
 3. When the user click `Add to cart` button, the product should go to the `Cart page` as the screenshot below
-4. When the user click more than 1 time the same products, it should increase the quantity of that products
+4. When the user click more than 1 time the same products, it should increase the quantity of that products as well as the price part.
 5. Styling is up to you but at least do as the template in the screenshot
 
 ## Screenshots
