@@ -1,5 +1,7 @@
 import React from "react";
-
-export default function Cart() {
-  return <div>Cart</div>;
+import CartList from "../components/cart/CartList";
+export default function Cart(props) {
+  return <div>
+          <CartList cart={props.cart.flat()}/>
+  </div>;
 }

@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 50px;
+}
+
+.logo img {
+    width: 100px;
+    margin-left: 100px;
+}
+
+.navbar__links {
+    display: flex;
+    gap: 40px;
+    margin-right: 100px;
+}
