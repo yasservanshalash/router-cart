@@ -9,10 +9,10 @@ This assignment is to practice React : passing props, React hook: use State, use
 
 ## Requirements
 
-1. The url to get all products: `https://fakestoreapi.com/products`
-2. The url to get product detail: `https://fakestoreapi.com/products/{productId}`
-3. The application should have 2 pages: Home page and Cart page as the screenshots belows.
-4.
+1. The application should have 2 pages: Home page and Cart page as the screenshots belows
+2. Home page display list of products using this url: `https://fakestoreapi.com/products`
+3. When the user click `Add to cart` button, the product should go to the `Cart page` as the screenshot 2
+4. When the user click more than 1 time the same products, it should increase the quantity of that products
 
 ## Screenshots
 
