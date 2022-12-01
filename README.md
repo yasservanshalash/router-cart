@@ -19,3 +19,7 @@ This assignment is to practice React : passing props, React hook: use State, use
 ![homepage](./src/assets/homePage.png)
 
 ![cartPage](./src/assets/cartPage.png)
+
+## Extra task
+
+Add 1 more page for product detail: in HomePage, each product you should add a `More` button and in the product detail page, use this url: `https://fakestoreapi.com/products/:productId`
