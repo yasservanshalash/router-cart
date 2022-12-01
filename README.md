@@ -1,6 +1,6 @@
 # React assignment
 
-This assignment is to practice React : passing props, React hook: use State, useEffect and React router
+This assignment is to practice React : passing props, React hook: useState, useEffect and React router
 
 ## How to run project
 
